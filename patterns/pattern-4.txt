@@ -1,0 +1,227 @@
+1713 query
+1163 database
+1040 data
+767 system
+637 processing
+567 distributed
+528 object
+508 efficient
+458 xml
+382 control
+380 optimization
+327 performance
+313 query processing
+295 time
+290 parallel
+286 join
+276 system database
+273 based
+270 view
+260 real
+258 index
+257 algorithm
+245 evaluation
+238 network
+231 management
+222 access
+220 dynamic
+220 using
+213 approach
+212 stream
+209 memory
+206 query database
+199 scheduling
+187 transaction
+183 oriented
+173 query optimization
+166 file
+165 spatial
+165 structure
+164 adaptive
+161 relational
+159 multi
+159 technique
+154 database object
+151 real time
+150 storage
+147 environment
+144 query data
+141 oriented object
+136 architecture
+136 sql
+133 server
+133 concurrency
+132 distributed database
+128 tree
+125 motion
+125 querying
+125 distributed system
+124 query efficient
+120 recovery
+118 image
+115 complex
+113 shape
+112 data stream
+111 multiple
+110 continuous
+110 query xml
+109 aggregate
+108 peer
+107 update
+107 concurrency control
+106 data system
+105 model
+103 method
+100 query system
+96 oriented database
+94 optimizing
+93 strategy
+93 sensor
+92 moving
+92 scalable
+91 self
+90 design
+90 data management
+90 system management
+88 query evaluation
+87 disk
+86 analysis
+85 data distributed
+85 framework
+85 query object
+84 protocol
+84 data xml
+84 expansion
+84 modeling
+82 data efficient
+82 implementation
+82 indexing
+82 query using
+81 cost
+81 application
+81 execution
+80 processor
+79 data processing
+79 range
+77 scheme
+76 supporting
+75 load
+75 caching
+75 stereo
+74 tracking
+73 warehouse
+73 relational database
+73 resource
+72 nested
+71 query distributed
+70 processing efficient
+70 surface
+70 camera
+70 heterogeneous
+69 detection
+69 cache
+69 aggregation
+68 data database
+67 selection
+67 temporal
+67 processing database
+66 top
+66 fast
+66 locking
+66 olap
+64 estimation
+64 matching
+64 distributed system database
+64 answering
+63 system object
+63 database efficient
+62 allocation
+62 answering query
+62 processing system
+62 routing
+62 database management
+61 constraint
+61 processing distributed
+61 based query
+60 video
+60 multidimensional
+60 control database
+60 query expansion
+59 xpath
+58 monitoring
+57 mobile
+57 stream processing
+57 optimal
+57 database performance
+56 operation
+56 query stream
+56 materialized
+56 data warehouse
+56 xml efficient
+56 recursive
+56 size
+55 query view
+54 xquery
+54 external
+54 sharing
+54 computation
+54 source
+54 approximate
+54 query continuous
+53 object moving
+53 consistency
+52 probabilistic
+51 client
+51 hash
+51 broadcast
+51 shared
+51 view materialized
+51 organization
+50 reconstruction
+50 data access
+50 integration
+50 replication
+50 query processing efficient
+49 concurrency database
+49 buffer
+49 performance evaluation
+49 dbms
+48 replicated
+47 complexity
+47 robust
+47 computing
+47 streaming
+46 managing
+46 query join
+46 based system
+45 network sensor
+45 system performance
+45 network query
+45 oracle
+45 signature
+44 database spatial
+44 mechanism
+43 db2
+43 time system
+43 query multi
+42 hybrid
+42 wireless
+42 effective
+42 global
+42 query processing database
+41 document
+41 balancing
+41 support
+41 result
+41 semantic
+41 control system
+41 base
+41 calibration
+41 extensible
+40 relational query
+40 database approach
+40 structure index
+40 placement
+40 visual
+40 uncertain
+40 language

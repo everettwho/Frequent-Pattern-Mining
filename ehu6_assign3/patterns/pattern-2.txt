@@ -1,0 +1,245 @@
+1226 web
+1211 information
+1114 retrieval
+863 based
+757 system
+707 search
+564 document
+490 language
+475 information retrieval
+421 model
+414 semantic
+385 user
+377 text
+376 using
+317 approach
+278 agent
+267 service
+260 query
+228 natural
+228 data
+224 analysis
+218 automatic
+218 application
+211 content
+210 image
+182 mining
+181 engine
+180 relevance
+177 term
+173 web search
+173 interface
+170 language natural
+165 extraction
+164 context
+160 evaluation
+160 interactive
+157 filtering
+157 information system
+156 generation
+155 feedback
+155 retrieval based
+148 collaborative
+147 retrieval system
+141 retrieval document
+139 towards
+138 multi
+136 study
+131 page
+127 collection
+123 robot
+122 search engine
+121 question
+120 result
+119 structured
+117 driven
+117 service web
+116 mobile
+115 knowledge
+114 topic
+113 scale
+112 modeling
+111 database
+110 indexing
+109 web based
+108 environment
+107 web page
+106 understanding
+106 word
+105 based system
+104 web semantic
+104 building
+104 xml
+102 social
+100 information based
+96 similarity
+95 management
+95 ranking
+95 task
+94 searching
+94 site
+91 source
+90 theoretic
+90 cross
+89 integration
+88 structure
+88 ontology
+88 retrieval model
+88 answering
+87 domain
+87 classification
+85 multimedia
+84 measure
+83 retrieval text
+83 behavior
+82 summarization
+82 digital
+81 visual
+80 intelligent
+80 extracting
+79 browsing
+79 based model
+79 improving
+79 concept
+79 based approach
+79 architecture
+79 information web
+77 expert
+77 answering question
+77 language retrieval
+77 integrated
+76 information retrieval system
+76 based content
+76 automated
+75 language information
+75 community
+75 annotation
+74 link
+74 quality
+73 abstract
+73 clustering
+73 web using
+73 image retrieval
+72 generating
+72 interaction
+72 feedback relevance
+71 strategy
+70 information model
+69 extraction information
+69 log
+69 development
+68 tool
+68 world
+68 collaborative filtering
+68 language model
+68 framework
+68 based document
+67 access
+67 evaluating
+67 information using
+67 personalized
+66 video
+65 based search
+65 web site
+65 keyword
+65 corpus
+64 uncertainty
+63 search result
+63 effective
+63 adaptive
+63 query web
+63 retrieval using
+62 online
+61 network
+61 dynamic
+60 application web
+60 news
+60 performance
+60 technology
+60 modelling
+60 probabilistic
+59 web mining
+58 retrieval content
+58 recommendation
+58 music
+57 schema
+57 library
+57 discovery
+56 web document
+55 interface user
+54 internet
+54 platform
+54 method
+54 experiment
+52 support
+52 web user
+52 grammar
+52 sentence
+52 query retrieval
+51 cooperative
+51 challenge
+51 level
+51 personal
+51 specific
+51 parsing
+50 language system
+50 planning
+50 information document
+50 navigation
+49 research
+49 exploration
+49 chinese
+49 translation
+49 information retrieval based
+49 latent
+49 cluster
+48 data web
+48 language based
+47 answer
+47 wide
+47 retrieval approach
+47 based user
+47 oriented
+46 design
+46 implicit
+46 independent
+46 information text
+46 information approach
+46 language query
+46 information retrieval model
+46 phrase
+46 retrieval evaluation
+45 enterprise
+45 relationship
+44 speech
+44 agent multi
+44 data mining
+44 multiple
+44 electronic
+44 relevant
+44 web content
+43 image based
+43 retrieval web
+43 summary
+43 language cross
+42 demonstration
+42 retrieval based content
+42 location
+42 profile
+42 matching
+42 interpretation
+42 query search
+42 improve
+42 web system
+41 prediction
+41 based semantic
+41 acquisition
+41 commerce
+41 system document
+41 cognitive
+41 test
+40 system user
+40 software
+40 semantics
+40 information user
+40 visualization

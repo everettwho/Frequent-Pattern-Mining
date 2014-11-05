@@ -1,0 +1,221 @@
+1074 database
+928 system
+743 knowledge
+558 learning
+514 data
+506 logic
+493 reasoning
+446 model
+426 constraint
+375 relational
+375 based
+339 design
+339 approach
+337 base
+304 program
+302 planning
+297 theory
+292 programming
+284 application
+263 representation
+239 management
+231 temporal
+227 rule
+227 language
+224 reinforcement
+223 object
+204 schema
+202 domain
+202 discovery
+199 abstract
+195 system database
+184 using
+178 solving
+163 oriented
+162 action
+154 concept
+154 description
+151 maintenance
+151 belief
+145 game
+145 network
+139 framework
+138 base data
+137 computer
+135 qualitative
+131 extended
+129 relational database
+128 relation
+126 information
+125 dependency
+125 expert
+122 semantics
+117 learning reinforcement
+115 knowledge system
+114 intelligence
+113 set
+112 tool
+112 process
+112 modeling
+111 knowledge base
+111 complexity
+111 inference
+107 inductive
+105 plan
+104 logical
+104 knowledge discovery
+102 diagnosis
+102 oriented object
+101 analysis
+97 functional
+97 engineering
+96 satisfaction
+96 integrating
+96 system management
+95 environment
+94 data system
+94 heuristic
+93 integration
+93 issue
+90 implementation
+89 logic programming
+89 knowledge representation
+87 logic program
+86 production
+85 deductive
+85 database design
+84 towards
+84 database object
+83 automatic
+82 acquisition
+82 specification
+82 expert system
+82 level
+81 formal
+80 constraint satisfaction
+80 based system
+79 panel
+79 mapping
+79 artificial
+78 physical
+78 abstraction
+77 view
+76 update
+76 technique
+76 based knowledge
+75 base system
+75 oriented database
+74 semantic
+74 machine
+74 method
+74 theorem
+73 dbms
+73 practical
+73 perspective
+73 data management
+71 goal
+71 function
+69 research
+69 type
+68 knowledge database
+68 integrity
+67 mechanism
+67 architecture
+66 calculus
+66 default
+66 data model
+66 incremental
+65 intelligence artificial
+65 structure
+65 distributed
+64 robot
+64 probabilistic
+63 conceptual
+63 automated
+62 resolution
+62 active
+62 database management
+62 revision
+62 explanation
+62 experience
+61 database approach
+61 fault
+60 propagation
+59 software
+58 heterogeneous
+58 representing
+58 proof
+58 incomplete
+58 human
+57 space
+57 application database
+57 computational
+57 extended abstract
+56 causal
+56 based model
+55 relational system
+55 intelligent
+55 system design
+55 technology
+55 complex
+55 dynamic
+54 business
+54 fuzzy
+54 simulation
+53 algebra
+53 database deductive
+53 challenge
+53 form
+53 change
+52 language database
+52 database model
+52 relational data
+52 role
+51 discovery database
+51 property
+51 multiple
+51 proving
+50 report
+50 decomposition
+50 support
+50 hierarchy
+50 world
+49 theoretical
+49 implementing
+49 result
+48 checking
+48 relationship
+48 meta
+47 propositional
+46 event
+46 data design
+46 logic description
+45 scientific
+45 definition
+45 generalized
+45 experimental
+45 querying
+45 preference
+45 declarative
+45 prolog
+45 rough
+44 evolution
+44 equilibrium
+44 stochastic
+44 system model
+43 transformation
+43 production system
+43 reasoning system
+42 preliminary
+42 application system
+42 extending
+42 transaction
+41 practice
+41 database constraint
+41 knowledge acquisition
+41 rule system
+41 inheritance
+41 workflow
+41 study
+41 data database
+41 statistical
