@@ -9,7 +9,7 @@ Mining frequent patterns often generates a large number of frequent patterns.  T
 
 The purity of each pattern in the patterns/ folder is ranked by purity, which is measrued by comparing the probability of seeing a phrase in the topic-t collection D(t) and the probability of seeing it any other topic-t' collection. This is calculated according to the following equation:
 
-purity(p,t)=log [ f(t,p) / | D(t) | ] - log (max [ ( f(t,p) + f(t',p) ) / | D(t,t') | ] )
+purity(p,t) = log [ f(t,p) / | D(t) | ] - log (max [ ( f(t,p) + f(t',p) ) / | D(t,t') | ] )
 
 - t' is in the set {0, 1, ..., k} where k is the number of topics - 1 (in this case k = 4), t' represents any other topic collection, 
 - purity(p,t) is the purity of pattern 'p' in topic 't', 
