@@ -7,7 +7,7 @@ LDA is run on a data set made up of titles from 5 domains' conference papers.  U
 
 A basic Apriori algorithm is implemented in apriori.py which takes and input file, output file, and support level.  This algorithm generates frequent patterns that meet the support level based on the algorithm.  The output of running this algorithm on each topic can be found in the patterns/ folder.
 
-Maximal and closed patterns are then mined using max.py and closed.py, with outputs in max/ and closed/, respectively.
+Mining frequent patterns often generates a large number of frequent patterns.  This number can grow exponentially as the min_sup levels decrease, resulting in excessive runtimes and relatively cluttered results. Mining closed and max patterns ahs the same power as mining the complete set of frequent patterns, but reduces the number of redundant rules generated. Maximal and closed patterns are mined using max.py and closed.py, with outputs in max/ and closed/, respectively.
 
 The purity of each pattern in the patterns/ folder is ranked by purity, which is measrued by comparing the probability of seeing a phrase in the topic-t collection D(t) and the probability of seeing it any other topic-t' collection. This is calculated according to the following equation:
 
